@@ -19,7 +19,7 @@
     <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="<?= base_url() ?>public/template/img/apple-touch-icon-144x144-precomposed.png">
 
     <!-- GOOGLE WEB FONT -->
-    <link href="<?= base_url() ?>public/template/https://fonts.googleapis.com/css?family=Work+Sans:400,500,600" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,500,600" rel="stylesheet">
 
     <!-- BASE CSS -->
     <link href="<?= base_url() ?>public/template/css/bootstrap.min.css" rel="stylesheet">
