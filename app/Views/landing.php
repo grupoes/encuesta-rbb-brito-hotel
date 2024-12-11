@@ -204,7 +204,7 @@
                             </div>
                             <!-- /step-->
                             <div class="step">
-                                <h3 class="main_question"><strong>5</strong>¿Qué tan probable es que recomiende el hotel RBB BRITO ?</h3>
+                                <h3 class="main_question"><strong>5</strong>¿Qué tan probable es que recomiende el hotel RBB BRITO 4 ESTRELLAS?</h3>
                                 <div class="form-group rating_wp clearfix">
                                     <span class="rating-emoticon">
 
